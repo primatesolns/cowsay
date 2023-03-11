@@ -1,0 +1,22 @@
+# Walter
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+     $thoughts
+          .~JP55PPGGGGPY^          
+        ..:^JYJ5PPGGBBB5^..        
+       :?~~7JJ5PPPPPPGBG?~~^       
+      .7JYJJJYY555YYY5GB#BBB7      
+     .!???77~^:~~!7^^^!YGBBBB?     
+    .~!7777:.......::::!5PGBBB?    
+    ^!!!77!^... ......:!YPPGGBY    
+    :!!!!77~:........:^?Y5PGGG?    
+    :!!!!!77!^.......:7JYY5PGP:    
+     :!~~~~~~^^::..:^~7??JYPP7     
+      ^~^^^:.:::^~^::::~7?YP?      
+      ^~~~~~~^^~!!!!!~!?Y5PY.      
+      ^!~~~~~~~!!!!7?JJY5PGY       
+      ^!~~~~~~!!77?JJY5PGGGP:      
+      ^!~!!~~!?JJY55PPGGGGGP~      
+      ^77??7!7JY555PPGGGGGGG!     
+EOC
